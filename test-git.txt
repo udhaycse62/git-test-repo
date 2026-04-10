@@ -9,5 +9,3 @@ going to use git pull from local
 testing restore
 
 testing revert
-
-testing stash
